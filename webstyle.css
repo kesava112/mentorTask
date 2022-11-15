@@ -1,0 +1,88 @@
+body{
+     background-image:url("/home/feuji/Downloads/pexels-mike-b-130851.jpg");
+     background-repeat:no-repeat;
+     background-size:cover;
+     hight:100vh;
+     color:green;
+    
+}
+li {
+    display: inline-block;
+    margin-left:40px;
+    padding:6px;
+    font-size:40px;    
+    text-decoration:none;
+    
+    
+}
+ul{
+    background-color:orange;
+}
+li a{
+
+  text-decoration:none;
+  color:red;  
+}
+.logo{
+    background-color:pink;
+}
+.para{
+    background-color:white;
+    border-style:solid ;
+    border-width:2px;
+    border-color:red;
+    float:left;
+
+
+
+}
+.para1{
+    background-color:white;
+    border-style:solid ;
+    border-width:2px;
+    border-color:red;
+    float:left;
+
+
+
+}
+.image{
+    float:left;
+    border:3px solid red;
+    
+}
+.image1{
+    float:right;
+    border:3px solid red;
+    
+}
+.mark{
+    background-color:yellow;
+    color:red;
+    font-size:35px;
+}
+footer{
+    margin-top:400px;
+}
+.img1{
+    margin-left:40px;
+    border-radius:50%;
+}
+.img2{
+    margin-left:40px;
+    border-radius:50%;
+}
+.img3{
+    margin-left:40px;
+    border-radius:50%;
+}
+.links{
+    float:right;
+    background-color:pink;
+    margin-top:30px;
+}
+.css{
+    ma;
+}
+
+
